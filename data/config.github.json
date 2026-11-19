@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-      "model": "kimi-k3",
+      "model": "qwen3.8-flash",
     "base_url": "https://opencode.ai/zen/go/v1",
     "api_key_env": "OPENCODE_GO_API_KEY",
     "temperature": 0.3,
