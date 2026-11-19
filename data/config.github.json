@@ -1,7 +1,7 @@
 {
   "ai": {
     "provider": "openai",
-      "model": "glm-5.2",
+      "model": "kimi-k3",
     "base_url": "https://opencode.ai/zen/go/v1",
     "api_key_env": "OPENCODE_GO_API_KEY",
     "temperature": 0.3,
